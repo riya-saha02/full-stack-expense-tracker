@@ -4,7 +4,7 @@ A full-stack expense tracking application built entirely in Java, combining a Sp
 
 Track your income, expenses, and financial insights through a sleek, minimalist UI powered by a robust REST API.
 
-## 🚀 Features
+## 🚀 Core Features
 
 - 📊 Track income and expenses  
 - 🗂 Categorize transactions  
@@ -21,6 +21,21 @@ Track your income, expenses, and financial insights through a sleek, minimalist 
 ![JavaFX](https://img.shields.io/badge/JavaFX-0A0A0A?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧠 Project Architecture
+## 🧠 System Design
 JavaFX UI ⇄ Spring Boot REST API ⇄ MySQL Database
 
+## ⭐ Key Highlights
+
+- Built a full-stack application entirely in Java  
+- Designed REST APIs using Spring Boot  
+- Integrated JavaFX frontend with backend services  
+- Implemented real-time transaction updates  
+- Structured clean MVC architecture  
+
+## 🚀 Future Scope
+
+- 🔐 Authentication & Authorization (JWT)
+- 📊 Advanced analytics dashboard
+- ☁️ Deploy backend on cloud (AWS/Render)
+- 📄 Export reports (PDF/CSV)
+- 📱 Convert to mobile app
